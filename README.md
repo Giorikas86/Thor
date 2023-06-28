@@ -6,3 +6,4 @@ Due to the nature of the Germanic corpus, narratives featuring Thor are only att
 
 Into the modern period, Thor continued to be acknowledged in rural folklore throughout Germanic-speaking Europe. Thor is frequently referred to in place names, the day of the week Thursday bears his name (modern English Thursday derives from Old English þunresdæġ, 'Þunor's day'), and names stemming from the pagan period containing his own continue to be used today, particularly in Scandinavia. Thor has inspired numerous works of art and references to Thor appear in modern popular culture. Like other Germanic deities, veneration of Thor is revived in the modern period in Heathenry.
 
+![Thor](https://github.com/Giorikas86/Thor/assets/124844380/9b11c7db-c18a-427e-a004-2d162f6d5d0d)
